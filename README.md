@@ -7,9 +7,6 @@
 3. Проверить, есть ли разница в активности в первые 30 дней с момента регистрации между водителями из разных городов?
 4. Проверить может ли отток быть связан с активностью в первые 30 дней после регистрации?
 
-Есть ли разница в активности в первые 30 дней с момента регистрации между водителями из разных городов? (city, trips_in_first_30_days)
-Может ли отток быть связан с активностью в первые 30 дней после регистрации? (churn, trips_in_first_30_days)
-
 ## В работе использован следующий стек:  
   <a href="https://jupiter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png" width="36" height="36" alt="jupiter-notebook" /></a>
   <a href="https://pandas.org/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/ce/6e/14/ce6e14ee46d262be29c3efef8cd2e86d.png" width="80" height="36" alt="pandas" /></a>
